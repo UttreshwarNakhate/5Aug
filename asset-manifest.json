@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UttreshwarNakhate/React-PWA/static/css/main.f5a45e88.css",
+    "main.js": "/UttreshwarNakhate/React-PWA/static/js/main.ebc51043.js",
+    "index.html": "/UttreshwarNakhate/React-PWA/index.html",
+    "main.f5a45e88.css.map": "/UttreshwarNakhate/React-PWA/static/css/main.f5a45e88.css.map",
+    "main.ebc51043.js.map": "/UttreshwarNakhate/React-PWA/static/js/main.ebc51043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a45e88.css",
+    "static/js/main.ebc51043.js"
+  ]
+}
